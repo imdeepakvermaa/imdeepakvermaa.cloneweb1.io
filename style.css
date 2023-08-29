@@ -293,14 +293,14 @@ video {
     width: 100%;
     background-color: #95C11E;
     padding: 30px;
-    padding-top: 160px;
+    padding-top: 140px;
     opacity: 0;
     transition: all ease 0.6s;
 }
 
 .overlay h4 {
     color: #000;
-    font-size: 40px;
+    font-size: 25px;
     text-transform: uppercase;
     white-space: nowrap;
     margin-bottom: 10px;
@@ -430,7 +430,7 @@ video {
 }
 
 #page4 h1 {
-    font-size: 100px;
+    font-size: 80px;
     position: absolute;
     top: 8%;
     font-weight: 900;
